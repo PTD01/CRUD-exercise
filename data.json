@@ -1,0 +1,12 @@
+[
+    { "id": "1", "name": "Table", "price": 300, "stock": 10 },
+    { "id": "2", "name": "Chair", "price": 100, "stock": 20 },
+    { "id": "3", "name": "Laptop", "price": 1200, "stock": 15 },
+    { "id": "4", "name": "Phone", "price": 699, "stock": 30 },
+    { "id": "5", "name": "Desk", "price": 500, "stock": 12 },
+    { "id": "6", "name": "Monitor", "price": 200, "stock": 18 },
+    { "id": "7", "name": "Keyboard", "price": 50, "stock": 25 },
+    { "id": "8", "name": "Mouse", "price": 25, "stock": 40 },
+    { "id": "9", "name": "Printer", "price": 300, "stock": 5 },
+    { "id": "10", "name": "Router", "price": 150, "stock": 8 }
+  ]
